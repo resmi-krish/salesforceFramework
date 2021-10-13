@@ -1,0 +1,115 @@
+2021-10-11 23:46:01,332 INFO  [Log] ****************           -S-T-A-R-T-TC 1 - Login Error Message       **************** 
+2021-10-11 23:46:02,694 INFO  [Log] TC1 completed successfully 
+2021-10-11 23:46:02,694 INFO  [Log] ***************             -E---N---D-TC 1 - Login Error Message         *************** 
+2021-10-11 23:46:05,531 INFO  [Log] ****************           -S-T-A-R-T-TC 2- Login To SalesForce       **************** 
+2021-10-11 23:46:12,619 INFO  [Log] TC2 successfully completed 
+2021-10-11 23:46:12,619 INFO  [Log] ***************             -E---N---D-TC 2- Login To SalesForce         *************** 
+2021-10-11 23:46:19,478 INFO  [Log] ****************           -S-T-A-R-T-TC 3- Check RememberMe       **************** 
+2021-10-11 23:46:28,976 INFO  [Log] TC 3 successfully completed 
+2021-10-11 23:46:28,976 INFO  [Log] ***************             -E---N---D-TC 3- Check RememberMe         *************** 
+2021-10-11 23:46:35,972 INFO  [Log] ****************           -S-T-A-R-T-TC 4A - Forgot Password       **************** 
+2021-10-11 23:46:37,603 INFO  [Log] TC 4A successfully completed 
+2021-10-11 23:46:37,603 INFO  [Log] ***************             -E---N---D-TC 4A - Forgot Password         *************** 
+2021-10-11 23:46:40,759 INFO  [Log] ****************           -S-T-A-R-T-TC 4B - Forgot Password       **************** 
+2021-10-11 23:46:41,394 INFO  [Log] TC 4B successfully completed 
+2021-10-11 23:46:41,394 INFO  [Log] ***************             -E---N---D-TC 4B - Forgot Password         *************** 
+2021-10-12 00:09:20,760 INFO  [Log] ****************           -S-T-A-R-T-TC 05 - Select User Menu       **************** 
+2021-10-12 00:09:21,422 INFO  [Log] TC 05 Successfully completed 
+2021-10-12 00:09:21,423 INFO  [Log] ***************             -E---N---D-TC 05 - Select User Menu         *************** 
+2021-10-12 00:09:31,990 INFO  [Log] ****************           -S-T-A-R-T-TC 06 - My profile option       **************** 
+2021-10-12 00:09:34,903 INFO  [Log] Edit profile completed 
+2021-10-12 00:10:07,272 INFO  [Log] About Tab completed 
+2021-10-12 00:10:08,367 INFO  [Log] Posted text 
+2021-10-12 00:10:10,647 INFO  [Log] File upload completed 
+2021-10-12 00:10:57,111 INFO  [Log] Add photo and crop completed 
+2021-10-12 00:10:57,111 INFO  [Log] ***************             -E---N---D-TC 06 - My profile option         *************** 
+2021-10-12 00:11:11,322 INFO  [Log] ****************           -S-T-A-R-T-TC 07 - My Settings       **************** 
+2021-10-12 00:11:13,610 INFO  [Log] TC07 - The latest login:10/12/2021, 12:11:05 AM PDT 
+2021-10-12 00:11:15,533 INFO  [Log] Display layout Tab completed 
+2021-10-12 00:11:17,360 INFO  [Log] Email link tab completed 
+2021-10-12 00:11:23,596 INFO  [Log] TC 07 successfully completed 
+2021-10-12 00:11:23,596 INFO  [Log] ***************             -E---N---D-TC 07 - My Settings         *************** 
+2021-10-12 00:11:30,931 INFO  [Log] ****************           -S-T-A-R-T-TC 08 - Developers Console option       **************** 
+2021-10-12 00:11:32,922 INFO  [Log] TC 08 successfully completed 
+2021-10-12 00:11:32,924 INFO  [Log] ***************             -E---N---D-TC 08 - Developers Console option         *************** 
+2021-10-12 00:11:42,946 INFO  [Log] ****************           -S-T-A-R-T-TC 09 - Logout       **************** 
+2021-10-12 00:11:43,509 INFO  [Log] ***************             -E---N---D-TC 09 - Logout         *************** 
+2021-10-12 00:29:32,465 INFO  [Log] ****************           -S-T-A-R-T-TC 10 - Create Account       **************** 
+2021-10-12 00:29:38,202 INFO  [Log] ***************             -E---N---D-TC 10 - Create Account         *************** 
+2021-10-12 00:29:42,315 INFO  [Log] ****************           -S-T-A-R-T-TC 11 - Create New View       **************** 
+2021-10-12 00:29:49,058 INFO  [Log] ***************             -E---N---D-TC 11 - Create New View         *************** 
+2021-10-12 00:29:53,104 INFO  [Log] ****************           -S-T-A-R-T-TC 12 - Edit View Option       **************** 
+2021-10-12 00:29:58,504 INFO  [Log] ***************             -E---N---D-TC 12 - Edit View Option         *************** 
+2021-10-12 00:30:01,053 INFO  [Log] ****************           -S-T-A-R-T-TC 13 - Merge Accounts       **************** 
+2021-10-12 00:30:11,577 INFO  [Log] ***************             -E---N---D-TC 13 - Merge Accounts         *************** 
+2021-10-12 00:30:17,971 INFO  [Log] ****************           -S-T-A-R-T-TC 14 - Create Annual Report       **************** 
+2021-10-12 00:30:31,197 INFO  [Log] ***************             -E---N---D-TC 14 - Create Annual Report         *************** 
+2021-10-12 00:45:57,659 INFO  [Log] ****************           -S-T-A-R-T-TC 15 - Opportunity drop down       **************** 
+2021-10-12 00:46:02,784 INFO  [Log] ***************             -E---N---D-TC 15 - Opportunity drop down         *************** 
+2021-10-12 00:46:10,726 INFO  [Log] ****************           -S-T-A-R-T-TC 16 - New Opportunity       **************** 
+2021-10-12 00:46:17,494 INFO  [Log] ***************             -E---N---D-TC 16 - New Opportunity         *************** 
+2021-10-12 00:46:21,318 INFO  [Log] ****************           -S-T-A-R-T-TC 17 - Test Opportunity Pipeline Report       **************** 
+2021-10-12 00:46:25,370 INFO  [Log] ***************             -E---N---D-TC 17 - Test Opportunity Pipeline Report         *************** 
+2021-10-12 00:46:33,389 INFO  [Log] ****************           -S-T-A-R-T-TC 18 - Test Stuck Opportunity Report       **************** 
+2021-10-12 00:46:40,452 INFO  [Log] ***************             -E---N---D-TC 18 - Test Stuck Opportunity Report         *************** 
+2021-10-12 00:46:48,693 INFO  [Log] ****************           -S-T-A-R-T-TC 19 - Quarterly Summary Report       **************** 
+2021-10-12 00:46:55,580 INFO  [Log] The first report generation Status:Complete 
+2021-10-12 00:46:56,820 INFO  [Log] The second report generation Status:Complete 
+2021-10-12 00:46:56,820 INFO  [Log] ***************             -E---N---D-TC 19 - Quarterly Summary Report         *************** 
+2021-10-12 08:18:08,696 INFO  [Log] ****************           -S-T-A-R-T-TC 20 - Leads Tab Link       **************** 
+2021-10-12 08:18:19,902 INFO  [Log] ***************             -E---N---D-TC 20 - Leads Tab Link         *************** 
+2021-10-12 08:18:28,192 INFO  [Log] ****************           -S-T-A-R-T-TC 21 Leads Drop Down       **************** 
+2021-10-12 08:18:32,297 INFO  [Log] All Open Leads 
+2021-10-12 08:18:32,304 INFO  [Log] My Unread Leads 
+2021-10-12 08:18:32,311 INFO  [Log] Recently Viewed Leads 
+2021-10-12 08:18:32,320 INFO  [Log] Today's Leads 
+2021-10-12 08:18:32,326 INFO  [Log] View - Custom 1 
+2021-10-12 08:18:32,333 INFO  [Log] View - Custom 2 
+2021-10-12 08:18:32,333 INFO  [Log] ***************             -E---N---D-TC 21 Leads Drop Down         *************** 
+2021-10-12 08:18:40,457 INFO  [Log] ****************           -S-T-A-R-T-TC 22 - Default View       **************** 
+2021-10-12 08:18:51,389 INFO  [Log] The selected option is Today's lead 
+2021-10-12 08:18:51,389 INFO  [Log] ***************             -E---N---D-TC 22 - Default View         *************** 
+2021-10-12 08:18:59,331 INFO  [Log] ****************           -S-T-A-R-T-TC 23 Today's Lead Work       **************** 
+2021-10-12 08:19:03,874 INFO  [Log] Today's Lead is displayed 
+2021-10-12 08:19:03,874 INFO  [Log] ***************             -E---N---D-TC 23 Today's Lead Work         *************** 
+2021-10-12 08:19:12,475 INFO  [Log] ****************           -S-T-A-R-T-TC 24 - New Button on Leads Page       **************** 
+2021-10-12 08:19:19,209 INFO  [Log] ***************             -E---N---D-TC 24 - New Button on Leads Page         ***************
+ 2021-10-12 09:12:50,850 INFO  [Log] ****************           -S-T-A-R-T-TC 25 - Create New Contact       **************** 
+2021-10-12 09:12:58,725 INFO  [Log] ***************             -E---N---D-TC 25 - Create New Contact         *************** 
+2021-10-12 09:13:04,641 INFO  [Log] ****************           -S-T-A-R-T-TC 26 - Create New View       **************** 
+2021-10-12 09:13:11,079 INFO  [Log] The View Selected is correct 
+2021-10-12 09:13:11,079 INFO  [Log] ***************             -E---N---D-TC 26 - Create New View         *************** 
+2021-10-12 09:13:16,555 INFO  [Log] ****************           -S-T-A-R-T-TC 27 - Recently Created Contact       **************** 
+2021-10-12 09:13:24,553 INFO  [Log] ***************             -E---N---D-TC 27 - Recently Created Contact         *************** 
+2021-10-12 09:13:29,876 INFO  [Log] ****************           -S-T-A-R-T-TC 28 - My Contacts View       **************** 
+2021-10-12 09:13:34,388 INFO  [Log] ***************             -E---N---D-TC 28 - My Contacts View         *************** 
+2021-10-12 09:13:44,310 INFO  [Log] ****************           -S-T-A-R-T-TC 29 - View a contact in contact Page       **************** 
+2021-10-12 09:13:56,678 INFO  [Log] ***************             -E---N---D-TC 29 - View a contact in contact Page         *************** 
+2021-10-12 09:14:01,895 INFO  [Log] ****************           -S-T-A-R-T-TC 30 - Check Error Message       **************** 
+2021-10-12 09:14:08,308 INFO  [Log] ***************             -E---N---D-TC 30 - Check Error Message         *************** 
+2021-10-12 09:14:13,493 INFO  [Log] ****************           -S-T-A-R-T-TC 31 - Check Cancel Button       **************** 
+2021-10-12 09:14:19,889 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,897 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,906 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,913 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,919 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,925 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,931 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,944 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,952 INFO  [Log] The view is not created 
+2021-10-12 09:14:19,952 INFO  [Log] ***************             -E---N---D-TC 31 - Check Cancel Button         *************** 
+2021-10-12 09:14:28,949 INFO  [Log] ****************           -S-T-A-R-T-TC 32 - Check Save and New Button       **************** 
+2021-10-12 09:14:48,646 INFO  [Log] ***************             -E---N---D-TC 32 - Check Save and New Button         *************** 
+2021-10-12 09:38:30,019 INFO  [Log] ****************           -S-T-A-R-T-TC 33 - Verify first name and last name       **************** 
+2021-10-12 09:38:34,572 INFO  [Log] ***************             -E---N---D-TC 33 - Verify first name and last name         *************** 
+2021-10-12 09:38:43,346 INFO  [Log] ****************           -S-T-A-R-T-TC 34 - Verfiy edited last name is updated       **************** 
+2021-10-12 09:39:26,841 INFO  [Log] The updated profile Name:Resmi Abcd  
+2021-10-12 09:39:27,821 INFO  [Log] ***************             -E---N---D-TC 34 - Verfiy edited last name is updated         *************** 
+2021-10-12 09:39:35,993 INFO  [Log] ****************           -S-T-A-R-T-TC 35 - Verify Tab Customization       **************** 
+2021-10-12 09:39:46,740 INFO  [Log] ***************             -E---N---D-TC 35 - Verify Tab Customization         *************** 
+2021-10-12 09:39:50,606 INFO  [Log] ****************           -S-T-A-R-T-TC 36 - Blocking Calendar       **************** 
+2021-10-12 09:39:57,535 INFO  [Log] Calender User Name Calendar for Resmi Abcd - Day View 
+2021-10-12 09:39:57,535 INFO  [Log] ***************             -E---N---D-TC 36 - Blocking Calendar         *************** 
+2021-10-12 09:40:01,396 INFO  [Log] ****************           -S-T-A-R-T-TC 37 - Weekly Occurance       **************** 
+2021-10-12 09:40:09,040 INFO  [Log] Calender User Name: Calendar for Resmi Abcd - Month View 
+2021-10-12 09:40:09,041 INFO  [Log] ***************             -E---N---D-TC 37 - Weekly Occurance         *************** 

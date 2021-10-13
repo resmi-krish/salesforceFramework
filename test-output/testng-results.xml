@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="103776" started-at="2021-10-12T09:38:25 PDT" finished-at="2021-10-12T09:40:09 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="103776" started-at="2021-10-12T09:38:25 PDT" finished-at="2021-10-12T09:40:09 PDT">
+      <class name="com.training.test.RandomScenarios.RandomScenariosTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="beforeTest" is-config="true" duration-ms="4456" started-at="2021-10-12T09:38:25 PDT" finished-at="2021-10-12T09:38:29 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="nameDisplay()[pri:1, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="nameDisplay" duration-ms="4615" started-at="2021-10-12T09:38:29 PDT" finished-at="2021-10-12T09:38:34 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nameDisplay -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="teardown" is-config="true" duration-ms="5165" started-at="2021-10-12T09:38:34 PDT" finished-at="2021-10-12T09:38:39 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="beforeTest" is-config="true" duration-ms="3601" started-at="2021-10-12T09:38:39 PDT" finished-at="2021-10-12T09:38:43 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="editLastNameVerify()[pri:2, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="editLastNameVerify" duration-ms="44476" started-at="2021-10-12T09:38:43 PDT" finished-at="2021-10-12T09:39:27 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLastNameVerify -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="teardown" is-config="true" duration-ms="4337" started-at="2021-10-12T09:39:27 PDT" finished-at="2021-10-12T09:39:32 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="beforeTest" is-config="true" duration-ms="3832" started-at="2021-10-12T09:39:32 PDT" finished-at="2021-10-12T09:39:35 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="tabCustomize()[pri:3, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="tabCustomize" duration-ms="10748" started-at="2021-10-12T09:39:35 PDT" finished-at="2021-10-12T09:39:46 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabCustomize -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="teardown" is-config="true" duration-ms="342" started-at="2021-10-12T09:39:46 PDT" finished-at="2021-10-12T09:39:47 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="beforeTest" is-config="true" duration-ms="3522" started-at="2021-10-12T09:39:47 PDT" finished-at="2021-10-12T09:39:50 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="blockCalendar()[pri:4, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="blockCalendar" duration-ms="6929" started-at="2021-10-12T09:39:50 PDT" finished-at="2021-10-12T09:39:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockCalendar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="teardown" is-config="true" duration-ms="186" started-at="2021-10-12T09:39:57 PDT" finished-at="2021-10-12T09:39:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="beforeTest" is-config="true" duration-ms="3672" started-at="2021-10-12T09:39:57 PDT" finished-at="2021-10-12T09:40:01 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="blockWeeklyRecurrance()[pri:5, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="blockWeeklyRecurrance" duration-ms="7647" started-at="2021-10-12T09:40:01 PDT" finished-at="2021-10-12T09:40:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blockWeeklyRecurrance -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.training.test.RandomScenarios.RandomScenariosTest@307f6b8c]" name="teardown" is-config="true" duration-ms="211" started-at="2021-10-12T09:40:09 PDT" finished-at="2021-10-12T09:40:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.training.test.RandomScenarios.RandomScenariosTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
